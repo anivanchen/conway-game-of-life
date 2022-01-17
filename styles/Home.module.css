@@ -27,8 +27,10 @@
 #cell {
   transition: all 150ms ease;
 }
-
 #cell:hover {
   background-color: var(--cell-color);
   opacity: 0.25;
+}
+#cell:active {
+  opacity: 1;
 }

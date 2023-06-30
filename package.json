@@ -1,6 +1,10 @@
 {
   "name": "conway",
-  "private": true,
+  "version": "1.0.0",
+  "author": "Ivan Chen",
+  "description": "An implementation of Conway's Game of Life in React.",
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",

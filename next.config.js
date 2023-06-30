@@ -1,7 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  assetPrefix: '/conway-game-of-life/',
-}
+const nextConfig = {}
 
 module.exports = nextConfig
